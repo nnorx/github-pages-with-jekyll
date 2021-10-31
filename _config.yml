@@ -1,6 +1,7 @@
 title: Nick Norcross' Homepage
 author: nnorx
 email: nick.norcross@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   My homepage hosted by GitHub Pages.
 
