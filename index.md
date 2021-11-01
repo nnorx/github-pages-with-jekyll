@@ -14,7 +14,7 @@
 
 # I'm Nick Norcross
 
-<img src="img/me_head.jpg" height="200" />
+<img src="img/me_head.jpeg" height="200" />
 
 By 2040 I want the world to function in a vastly more interoperable way, connected by the next generation web. I believe bringing people financial equality through the web is a significant step towards world peace.
 
